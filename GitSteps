@@ -1,0 +1,16 @@
+>git init
+>git config user.name "username inside quotes"
+>git config user.email "email inside quotes"
+>git config core.editor notepad
+>git remote add origin https://github.com/Kamalesh1994/hello-world.git
+>git pull origin qwerty
+>git branch
+>git checkout qwerty
+>git branch
+>cd Git-Test
+>git status
+>git add GitSteps
+>git status
+>git commit
+>git push origin qwerty
+>git log
